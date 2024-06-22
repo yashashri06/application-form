@@ -1,0 +1,90 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px black solid;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 4px;
+     
+ }
+
+.header{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 20px;
+   font-size: 2.5rem;
+   font-weight: 700;
+}
+
+#name:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+    
+}
+
+#email:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#phone:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#file1:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#counter:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#checkbox1:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#checkbox2:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+
+#checkbox3:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+
+#radio1:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#radio2:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#texrarea1:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+#submit:hover {
+    transform: scale(1.1);
+    transition-duration: 100ms;
+}
+
+.subcontainer{
+    padding: 2px;
+    margin: 1px;
+}
